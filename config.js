@@ -27,12 +27,12 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/l4c1f2r'
-global.syt = 'https://youtube.com/@Putra_Modz_'
-global.sgh = 'https://github.com/Lucife-Putra'
-global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
-global.sdc = 'https://wa.me/6282214729677'
-global.swa = 'wa.me/682214729677'
+global.sig = 'https://instagram.com/lans.xys'
+global.syt = 'https://youtube.com/@LansDev'
+global.sgh = 'https://github.com/Lans-ofc'
+global.sgc = 'https://chat.whatsapp.com/F9St301rfmhE7xOFBKmvG2'
+global.sdc = 'https://wa.me/6283132749084'
+global.swa = 'wa.me/6283132749084'
 global.swb = 'https://discord.gg/'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
