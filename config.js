@@ -122,8 +122,8 @@ global.ultahowner = 'Februari 02 2023'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/6fc98b67397beb0b1374d.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/06c4e93a3d3f388b2642d.jpg'
+global.thumb = 'https://telegra.ph/file/f2d8864b2ee539cce0e8b.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/f2d8864b2ee539cce0e8b.jpg'
 global.giflogo = 'https://ibb.co/3sJ0ybv'
 global.thumbbc = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4' //For broadcast
 global.giflogo = 'https://telegra.ph/file/99dc832b69682552788b3.mp4'
@@ -131,8 +131,8 @@ global.giflogo2 = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
-global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
-global.botintro = 'Hallo, Kenalin saya NexBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh NexEp Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.thumbWarn = 'https://telegra.ph/file/e4cb4958259c82d55a86b.jpg'
+global.botintro = 'Hallo, Kenalin saya Bot Wangsap Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh NexEp Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
 global.nameowner = 'Maulana'
