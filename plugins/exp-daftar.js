@@ -50,19 +50,19 @@ let handler = async function (m, { text, usedPrefix, command }) {
 
  const listMessage = { 
    text: `┏━━━〔 ıll 𝐑𝐄𝐆𝐈𝐒𝐓𝐄𝐑 llı 〕━━㉿
-⬡ Hallo ${conn.getName(m.sender)} 👋
-⬡ Sebelum melihat fitur bot, lebih baik Verify dulu
+⬡ Hallo ${conn.getName(m.sender)} 🗿
+⬡ Sebelum make bot Daftar dulu ngap
 ⬡ Kalau tidak kelihatan button nya, contohnya dibawah!
 ┗━━━━━━━━━━━━━━━━━━㉿
 ┏━━〔 ıll CONTOH llı 〕━㉿
 ⬡ #daftar namamu.umurmu
-⬡ #daftar PutraModz.18
+⬡ #daftar Maulana.16
 ┗━━━━━━━━━━㉿ 
 ⫹⫺ 
 ⫹⫺`, 
-   footer: `*ᴘᴜᴛʀᴀᴍᴏᴅz*`, 
+   footer: `*ʟᴀɴꜱᴍᴏᴅᴢ*`, 
    title: "", 
-   buttonText: "CLICK HERE", 
+   buttonText: "CLICK BWANH", 
    sections 
  } 
 
@@ -85,7 +85,7 @@ let handler = async function (m, { text, usedPrefix, command }) {
  ╭━━━━「 *BERHASIL* 」
  ❖ Terima kasih ${name} Sudah mendaftar
 Di Database kami
- ❖ © ᴘᴜᴛʀᴀᴍᴏᴅz || ALL RESERVED
+ ❖ あ ʟᴀɴꜱᴍᴏᴅᴢ || Tamvan
 
  ╭━━━━「 *DATA* 」
  ┊⫹ *Sucsess ☑️* 】Status
