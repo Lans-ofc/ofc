@@ -20,13 +20,13 @@ const message = {
                 {
                     urlButton: {
                         displayText: 'Beli Sc? Klik',
-                        url: 'https://wa.me/6282214729677'
+                        url: 'https://wa.me/6283132749084'
                     }
                 },
                 {
                     urlButton: {
                         displayText: 'Ke IG GW',
-                        url: 'https://Instragram.com/l4c1f2r',
+                        url: 'https://Instragram.com/lans-ofc',
                     }
                 },
             ]
@@ -36,9 +36,9 @@ conn.reply(m.chat, info, m, {
 contextInfo: { externalAdReply :{ showAdAttribution: true,
                         sourceUrl: 'https://youtu.be/ALQiRR1nzLI',
                         mediaType: 2,
-                        description: `⚘ ᴄʀᴇᴀᴛᴇ ᴹᴿ᭄ PutraModz ×፝֟͜×`,
+                        description: `⚘ ᴄʀᴇᴀᴛᴇ ᴹᴿ᭄ LansModzあ`,
                         title: `💌 Ultah Owner : ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
-                        body: `⚘ ᴄʀᴇᴀᴛᴇ by ᴹᴿ᭄ PutraModz ×፝֟͜×`,          previewType: 0,
+                        body: `⚘ ᴄʀᴇᴀᴛᴇ by ᴹᴿ᭄ LansMods`,          previewType: 0,
                         thumbnail: await (await fetch(giflogo2)).buffer(),
                         mediaUrl: 'https://youtu.be/ALQiRR1nzLI'
                         
